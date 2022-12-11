@@ -7,3 +7,12 @@ f:\OneDrive\Belgeler\visual studio 2015\Projects\dersbtk\RecapDemo1\obj\Debug\Re
 f:\OneDrive\Belgeler\visual studio 2015\Projects\dersbtk\RecapDemo1\obj\Debug\RecapDemo1.csproj.GenerateResource.Cache
 f:\OneDrive\Belgeler\visual studio 2015\Projects\dersbtk\RecapDemo1\obj\Debug\RecapDemo1.exe
 f:\OneDrive\Belgeler\visual studio 2015\Projects\dersbtk\RecapDemo1\obj\Debug\RecapDemo1.pdb
+F:\OneDrive\Belgeler\GitHub\Csharp-MiniProjects-Developing-Myself-MiniProjeler-Kendimi-Geli-tirme\dersbtk\RecapDemo1\bin\Debug\RecapDemo1.exe.config
+F:\OneDrive\Belgeler\GitHub\Csharp-MiniProjects-Developing-Myself-MiniProjeler-Kendimi-Geli-tirme\dersbtk\RecapDemo1\obj\Debug\RecapDemo1.exe
+F:\OneDrive\Belgeler\GitHub\Csharp-MiniProjects-Developing-Myself-MiniProjeler-Kendimi-Geli-tirme\dersbtk\RecapDemo1\obj\Debug\RecapDemo1.pdb
+F:\OneDrive\Belgeler\GitHub\Csharp-MiniProjects-Developing-Myself-MiniProjeler-Kendimi-Geli-tirme\dersbtk\RecapDemo1\bin\Debug\RecapDemo1.exe
+F:\OneDrive\Belgeler\GitHub\Csharp-MiniProjects-Developing-Myself-MiniProjeler-Kendimi-Geli-tirme\dersbtk\RecapDemo1\bin\Debug\RecapDemo1.pdb
+F:\OneDrive\Belgeler\GitHub\Csharp-MiniProjects-Developing-Myself-MiniProjeler-Kendimi-Geli-tirme\dersbtk\RecapDemo1\obj\Debug\RecapDemo1.csprojResolveAssemblyReference.cache
+F:\OneDrive\Belgeler\GitHub\Csharp-MiniProjects-Developing-Myself-MiniProjeler-Kendimi-Geli-tirme\dersbtk\RecapDemo1\obj\Debug\RecapDemo1.Form1.resources
+F:\OneDrive\Belgeler\GitHub\Csharp-MiniProjects-Developing-Myself-MiniProjeler-Kendimi-Geli-tirme\dersbtk\RecapDemo1\obj\Debug\RecapDemo1.Properties.Resources.resources
+F:\OneDrive\Belgeler\GitHub\Csharp-MiniProjects-Developing-Myself-MiniProjeler-Kendimi-Geli-tirme\dersbtk\RecapDemo1\obj\Debug\RecapDemo1.csproj.GenerateResource.Cache

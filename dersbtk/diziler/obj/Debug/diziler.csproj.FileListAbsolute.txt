@@ -1,0 +1,6 @@
+f:\OneDrive\Belgeler\visual studio 2015\Projects\dersbtk\diziler\bin\Debug\diziler.exe.config
+f:\OneDrive\Belgeler\visual studio 2015\Projects\dersbtk\diziler\bin\Debug\diziler.exe
+f:\OneDrive\Belgeler\visual studio 2015\Projects\dersbtk\diziler\bin\Debug\diziler.pdb
+f:\OneDrive\Belgeler\visual studio 2015\Projects\dersbtk\diziler\obj\Debug\diziler.csprojResolveAssemblyReference.cache
+f:\OneDrive\Belgeler\visual studio 2015\Projects\dersbtk\diziler\obj\Debug\diziler.exe
+f:\OneDrive\Belgeler\visual studio 2015\Projects\dersbtk\diziler\obj\Debug\diziler.pdb

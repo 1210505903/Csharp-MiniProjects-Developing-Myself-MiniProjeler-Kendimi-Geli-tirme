@@ -1,0 +1,6 @@
+f:\OneDrive\Belgeler\visual studio 2015\Projects\dersbtk\class\bin\Debug\@class.exe.config
+f:\OneDrive\Belgeler\visual studio 2015\Projects\dersbtk\class\bin\Debug\@class.exe
+f:\OneDrive\Belgeler\visual studio 2015\Projects\dersbtk\class\bin\Debug\@class.pdb
+f:\OneDrive\Belgeler\visual studio 2015\Projects\dersbtk\class\obj\Debug\class.csprojResolveAssemblyReference.cache
+f:\OneDrive\Belgeler\visual studio 2015\Projects\dersbtk\class\obj\Debug\@class.exe
+f:\OneDrive\Belgeler\visual studio 2015\Projects\dersbtk\class\obj\Debug\@class.pdb

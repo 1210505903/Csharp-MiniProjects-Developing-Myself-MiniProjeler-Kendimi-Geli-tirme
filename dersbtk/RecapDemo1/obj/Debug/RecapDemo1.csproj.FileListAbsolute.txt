@@ -1,0 +1,9 @@
+f:\OneDrive\Belgeler\visual studio 2015\Projects\dersbtk\RecapDemo1\bin\Debug\RecapDemo1.exe.config
+f:\OneDrive\Belgeler\visual studio 2015\Projects\dersbtk\RecapDemo1\bin\Debug\RecapDemo1.exe
+f:\OneDrive\Belgeler\visual studio 2015\Projects\dersbtk\RecapDemo1\bin\Debug\RecapDemo1.pdb
+f:\OneDrive\Belgeler\visual studio 2015\Projects\dersbtk\RecapDemo1\obj\Debug\RecapDemo1.csprojResolveAssemblyReference.cache
+f:\OneDrive\Belgeler\visual studio 2015\Projects\dersbtk\RecapDemo1\obj\Debug\RecapDemo1.Form1.resources
+f:\OneDrive\Belgeler\visual studio 2015\Projects\dersbtk\RecapDemo1\obj\Debug\RecapDemo1.Properties.Resources.resources
+f:\OneDrive\Belgeler\visual studio 2015\Projects\dersbtk\RecapDemo1\obj\Debug\RecapDemo1.csproj.GenerateResource.Cache
+f:\OneDrive\Belgeler\visual studio 2015\Projects\dersbtk\RecapDemo1\obj\Debug\RecapDemo1.exe
+f:\OneDrive\Belgeler\visual studio 2015\Projects\dersbtk\RecapDemo1\obj\Debug\RecapDemo1.pdb

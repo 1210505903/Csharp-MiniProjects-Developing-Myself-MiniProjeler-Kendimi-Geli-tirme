@@ -1,0 +1,6 @@
+F:\OneDrive\Belgeler\GitHub\Csharp-MiniProjects-Developing-Myself-MiniProjeler-Kendimi-Geli-tirme\dersbtk\Constructors\bin\Debug\Constructors.exe.config
+F:\OneDrive\Belgeler\GitHub\Csharp-MiniProjects-Developing-Myself-MiniProjeler-Kendimi-Geli-tirme\dersbtk\Constructors\bin\Debug\Constructors.exe
+F:\OneDrive\Belgeler\GitHub\Csharp-MiniProjects-Developing-Myself-MiniProjeler-Kendimi-Geli-tirme\dersbtk\Constructors\bin\Debug\Constructors.pdb
+F:\OneDrive\Belgeler\GitHub\Csharp-MiniProjects-Developing-Myself-MiniProjeler-Kendimi-Geli-tirme\dersbtk\Constructors\obj\Debug\Constructors.csprojResolveAssemblyReference.cache
+F:\OneDrive\Belgeler\GitHub\Csharp-MiniProjects-Developing-Myself-MiniProjeler-Kendimi-Geli-tirme\dersbtk\Constructors\obj\Debug\Constructors.exe
+F:\OneDrive\Belgeler\GitHub\Csharp-MiniProjects-Developing-Myself-MiniProjeler-Kendimi-Geli-tirme\dersbtk\Constructors\obj\Debug\Constructors.pdb

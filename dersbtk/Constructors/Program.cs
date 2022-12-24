@@ -16,7 +16,7 @@ namespace Constructors
 
             Product product = new Product { Id = 1, Name = "Leptop" };
             Product prodtct2 = new Product(2, "Computer");
-
+            //ula hayattttttttttt
             //EmployManager emplymoanger = new EmployManager(new DatabaseLogger);       
            // emplymoanger.add();
 

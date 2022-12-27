@@ -1,0 +1,6 @@
+F:\OneDrive\Belgeler\GitHub\Csharp-MiniProjects-Developing-Myself-MiniProjeler-Kendimi-Geli-tirme\dersbtk\ınsertionsort\bin\Debug\ınsertionsort.exe.config
+F:\OneDrive\Belgeler\GitHub\Csharp-MiniProjects-Developing-Myself-MiniProjeler-Kendimi-Geli-tirme\dersbtk\ınsertionsort\bin\Debug\ınsertionsort.exe
+F:\OneDrive\Belgeler\GitHub\Csharp-MiniProjects-Developing-Myself-MiniProjeler-Kendimi-Geli-tirme\dersbtk\ınsertionsort\bin\Debug\ınsertionsort.pdb
+F:\OneDrive\Belgeler\GitHub\Csharp-MiniProjects-Developing-Myself-MiniProjeler-Kendimi-Geli-tirme\dersbtk\ınsertionsort\obj\Debug\ınsertionsort.csprojResolveAssemblyReference.cache
+F:\OneDrive\Belgeler\GitHub\Csharp-MiniProjects-Developing-Myself-MiniProjeler-Kendimi-Geli-tirme\dersbtk\ınsertionsort\obj\Debug\ınsertionsort.exe
+F:\OneDrive\Belgeler\GitHub\Csharp-MiniProjects-Developing-Myself-MiniProjeler-Kendimi-Geli-tirme\dersbtk\ınsertionsort\obj\Debug\ınsertionsort.pdb

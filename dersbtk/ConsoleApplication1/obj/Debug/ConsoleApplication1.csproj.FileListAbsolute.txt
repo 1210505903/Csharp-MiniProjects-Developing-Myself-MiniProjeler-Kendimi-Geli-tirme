@@ -1,0 +1,6 @@
+F:\OneDrive\Belgeler\GitHub\Csharp-MiniProjects-Developing-Myself-MiniProjeler-Kendimi-Geli-tirme\dersbtk\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\OneDrive\Belgeler\GitHub\Csharp-MiniProjects-Developing-Myself-MiniProjeler-Kendimi-Geli-tirme\dersbtk\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\OneDrive\Belgeler\GitHub\Csharp-MiniProjects-Developing-Myself-MiniProjeler-Kendimi-Geli-tirme\dersbtk\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\OneDrive\Belgeler\GitHub\Csharp-MiniProjects-Developing-Myself-MiniProjeler-Kendimi-Geli-tirme\dersbtk\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+F:\OneDrive\Belgeler\GitHub\Csharp-MiniProjects-Developing-Myself-MiniProjeler-Kendimi-Geli-tirme\dersbtk\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\OneDrive\Belgeler\GitHub\Csharp-MiniProjects-Developing-Myself-MiniProjeler-Kendimi-Geli-tirme\dersbtk\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
